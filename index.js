@@ -3,7 +3,7 @@
 const SpoilerBot = require('discord-spoiler-bot');
 
 let config = {
-    token: 'you_secret_token_here',
+    token: '45679e98bce726ed57e1cf1038aada46095c89c5',
 };
 
 let bot = new SpoilerBot(config);
